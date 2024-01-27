@@ -12,6 +12,21 @@ So_long is a project at 42 School that involves creating a simple 2D game using 
 - **Enemy Patrols:** Player can lose if the character is touched by an enemy patrol.
 - **Move Counter:** The total movement count is directly displayed on the screen within the window rather than in the shell.
 
+## How to Run
+Follow these steps to run the So_long game on your machine:
+   $ cd game
+   $ make
+   $ ./so_long map/basic.ber
 
-## How to Use
+## Controls
+
+| Action        | Key(s)          |
+|---------------|-----------------|
+| Move Up       | ↑ or W          |
+| Move Down     | ↓ or S          |
+| Move Left     | ← or A          |
+| Move Right    | → or D          |
+| Exit Game     | Close or ESC    |
+
+
 ![So_long Screenshot](https://github.com/luhumber/Images/blob/main/so_long/so_long_screen.png)
