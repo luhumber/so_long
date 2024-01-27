@@ -22,10 +22,10 @@ Follow these steps to run the So_long game on your machine:
 
 | Action        | Key(s)          |
 |---------------|-----------------|
-| Move Up       | ↑ or W          |
-| Move Down     | ↓ or S          |
-| Move Left     | ← or A          |
-| Move Right    | → or D          |
+| Move Up       |        W        |
+| Move Down     |        S        |
+| Move Left     |        A        |
+| Move Right    |        D        |
 | Exit Game     | Close or ESC    |
 
 
